@@ -1,8 +1,8 @@
 function add
 	pass
 	
-function subtract
-	pass
+function subtract(y,x);
+	result =  y-x;
 	
 function multiply
 	pass
